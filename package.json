@@ -1,0 +1,13 @@
+{
+	"name": "com.joaoportela.circullarbuffer-csharp",
+	"displayName": "CircullarBuffer-CSharp",
+	"description": "A simple, single file, implementation of a circular buffer in C#.",
+	"version": "1.0.0",
+	"keywords": ["buffer", "poco"],
+	"license": "THE BEER-WARE LICENSE (Revision 42)",
+	"dependencies": {},
+	"author": {
+		"name": "João Paulo dos Santos Portela",
+		"url": "https://github.com/joaoportela"
+	}
+}
